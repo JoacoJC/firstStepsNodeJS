@@ -1,0 +1,20 @@
+{
+  "name": "practica5_httpmodule",
+  "version": "1.0.0",
+  "description": "Practica para levatar servidor HTTP",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "http",
+    "practice"
+  ],
+  "author": "Joaquin Jurado",
+  "license": "ISC"
+}
